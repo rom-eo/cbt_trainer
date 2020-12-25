@@ -30,3 +30,8 @@ could be denoted 1.gif, 2.gif, ...
 
 3. Enjoy!
 """
+
+### Screenshots
+[1.png]
+
+[2.png]
